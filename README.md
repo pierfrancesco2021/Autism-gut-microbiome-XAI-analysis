@@ -1,4 +1,6 @@
 # Autism-gut-microbiome-XAI-analysis
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12825459.svg)](https://doi.org/10.5281/zenodo.12825459)
+
 Personalized identification of Autism-related bacteria in the gut microbiome using eXplainable Artificial Intelligence
 
 # Paper
