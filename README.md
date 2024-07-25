@@ -8,4 +8,5 @@ Personalized identification of Autism-related bacteria in the gut microbiome usi
 Pierfrancesco Novielli, Donato Romano, Michele Magarelli, Domenico Diacono, Alfonso Monaco, Nicola Amoroso, Mirco Vacca, Maria De Angelis, Roberto Bellotti, Sabina Tangaro
 
 # Overview of the analysis:
-![flowchart](flowchart)
+![flowchart](flowchart.png)
+
